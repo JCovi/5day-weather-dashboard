@@ -14,7 +14,7 @@ The Weather Forecast App is a web application that allows users to retrieve curr
 
 ## Live Demo
 
-You can access the live demo of the Weather Forecast App [here](#). (Insert the URL of your live website here)
+You can access the live demo of the Weather Forecast App [here](https://jcovi.github.io/5day-weather-dashboard/).
 
 ## Dependencies
 
